@@ -1,5 +1,7 @@
+*{margin:0px; border: 0px; padding: 0px;}
 .bar {
 	border-bottom:1px solid rgba(0,0,0,0.8);
-	height: 60px; 
+	height: 40px; 
 	width: 100%;
+	margin-bottom: 30px;
 }
